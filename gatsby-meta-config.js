@@ -1,6 +1,6 @@
 module.exports = {
   title: `Lee`,
-  description: `진규의 개발일지`,
+  description: `개발 일지`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://jglee-cm7.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder

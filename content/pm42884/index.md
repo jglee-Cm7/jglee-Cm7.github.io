@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.3 단속카메라
 date: '2023-04-13 21:55:14'
 author: jglee
-tags: Programmers 프로그래머스 Lv.3 PS
+tags: 프로그래머스 Lv.3 PS 정렬 그리디
 categories: PS
 ---
 

@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.3 최고의 집합
 date: '2023-04-13 10:11:24'
 author: jglee
-tags: Programmers 프로그래머스 Lv.3 PS
+tags: 프로그래머스 Lv.3 PS 구현
 categories: PS
 ---
 

@@ -21,13 +21,12 @@ function BlogTemplate({ data }) {
     if (!siteUrl) return;
     const namespace = siteUrl.replace(/(^\w+:|^)\/\//, '');
     const key = curPost.slug.replace(/\//g, '');
-
-    fetch(
-      `https://api.countapi.xyz/${
-        process.env.NODE_ENV === 'development' ? 'get' : 'hit'
-      }/${namespace}/${key}`,
-    ).then(async (result) => {
+    const url = `https://api.countapi.xyz/${
+      process.env.NODE_ENV === 'development' ? 'get' : 'hit'
+    }/${namespace}/${key}`;
+    fetch(url).then(async (result) => {
       const data = await result.json();
+      console.log(data);
       setViewCount(data.value);
     });
   }, [siteUrl, curPost.slug]);

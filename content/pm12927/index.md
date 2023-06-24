@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.3 야근 지수
 date: '2023-04-13 10:28:33'
 author: jglee
-tags: Programmers 프로그래머스 Lv.3 PS
+tags: 프로그래머스 Lv.3 PS 우선순위큐
 categories: PS
 ---
 

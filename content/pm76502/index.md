@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.2 괄호 회전하기
 date: '2023-04-12 18:25:00'
 author: jglee
-tags: programmers 프로그래머스 PS Lv.2
+tags: 프로그래머스 PS Lv.2 스택 구현
 categories: PS
 ---
 

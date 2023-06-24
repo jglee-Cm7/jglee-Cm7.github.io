@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.3 숫자 게임
 date: '2023-04-14 19:21:33'
 author: jglee
-tags: Programmers 프로그래머스 Lv.3 PS
+tags: 프로그래머스 Lv.3 PS 투포인터
 categories: PS
 ---
 

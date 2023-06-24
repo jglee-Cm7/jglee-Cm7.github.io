@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.3 이중우선순위큐
 date: '2023-04-13 10:03:50'
 author: jglee
-tags: programmers 프로그래머스 PS Lv.2
+tags: 프로그래머스 PS Lv.2 우선순위큐
 categories: PS
 ---
 
@@ -17,7 +17,7 @@ categories: PS
 
 ## 사용 알고리즘
 
-- 힙
+- 우선순위 큐
 
 ## 풀이
 

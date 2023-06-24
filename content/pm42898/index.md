@@ -3,7 +3,7 @@ emoji: 🧢
 title: 프로그래머스 Lv.3 등굣길
 date: '2023-04-13 16:32:49'
 author: jglee
-tags: Programmers 프로그래머스 Lv.3 PS
+tags: 프로그래머스 Lv.3 PS DP
 categories: PS
 ---
 
